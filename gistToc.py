@@ -1,7 +1,6 @@
-#!/usr/bin/python3
 import requests
 import re
-import sys
+from sys import argv, exit
 
 class GistToc():
     def __init__(self, config):
@@ -104,4 +103,4 @@ def procArgs(args):
     gisttoc.buildToc()
 
 if __name__ == '__main__':
-    procArgs(sys.argv)
+    procArgs(argv)

@@ -1,7 +1,7 @@
 
 # DevGW's Gists
 ## Table of Contents
-### Categories: [#ANSI](#ANSI-2) | [#awk](#awk-1) | [#bash](#bash-9) | [#cheatsheet](#cheatsheet-13) | [#circleci](#circleci-1) | [#configs](#configs-1) | [#CRLF](#CRLF-1) | [#curl](#curl-1) | [#docker](#docker-1) | [#feedmonster](#feedmonster-1) | [#gists](#gists-1) | [#git](#git-3) | [#header](#header-1) | [#hha_ank](#hha_ank-26) | [#lepton](#lepton-1) | [#m1](#m1-1) | [#markdown](#markdown-1) | [#mysql](#mysql-1) | [#passenger](#passenger-1) | [#prompt](#prompt-1) | [#python](#python-3) | [#react](#react-3) | [#RoR](#RoR-10) | [#rpi](#rpi-1) | [#rspec](#rspec-1) | [#ruby](#ruby-4) | [#screen](#screen-1) | [#scripts](#scripts-1) | [#sed](#sed-1) | [#table_of_contents](#table_of_contents-1) | [#template](#template-1) | [#unicode](#unicode-1) | [#Uncategorized](#Uncategorized-87)
+### Categories: [#ANSI](#ANSI-2) | [#awk](#awk-1) | [#bash](#bash-9) | [#cheatsheet](#cheatsheet-13) | [#circleci](#circleci-1) | [#configs](#configs-1) | [#CRLF](#CRLF-1) | [#curl](#curl-1) | [#docker](#docker-1) | [#feedmonster](#feedmonster-1) | [#gists](#gists-1) | [#git](#git-3) | [#header](#header-1) | [#hha_ank](#hha_ank-27) | [#lepton](#lepton-1) | [#m1](#m1-1) | [#markdown](#markdown-1) | [#mysql](#mysql-1) | [#passenger](#passenger-1) | [#prompt](#prompt-1) | [#python](#python-3) | [#react](#react-3) | [#RoR](#RoR-10) | [#rpi](#rpi-1) | [#rspec](#rspec-1) | [#ruby](#ruby-4) | [#screen](#screen-1) | [#scripts](#scripts-1) | [#sed](#sed-1) | [#table_of_contents](#table_of_contents-1) | [#template](#template-1) | [#unicode](#unicode-1) | [#windows](#windows-1) | [#Uncategorized](#Uncategorized-87)
 ### ANSI (*2*)
 
 * #### [Python ANSI color class #python #ANSI](https://gist.github.com/f6d3a0a811c521d22731081a7818cd3d)
@@ -136,8 +136,11 @@
 * #### [Default script header #header and #template](https://gist.github.com/f4a83c1b26524db96b22f8467a736b8f)
 > #### *Tags: #header, #template*
                 
-### hha_ank (*26*)
+### hha_ank (*27*)
 
+* #### [Module Release Deployment #hha_ank](https://gist.github.com/23e7ea1ea61ee9e2eae16d39e5db6b55)
+> #### *Tags: #hha_ank*
+                
 * #### [Unicode Cheatsheet #hha_ank #cheatsheet #unicode](https://gist.github.com/1f7ab4824687f50fcc18177d32400cd6)
 > #### *Tags: #cheatsheet, #hha_ank, #unicode*
                 
@@ -353,6 +356,11 @@
 
 * #### [Unicode Cheatsheet #hha_ank #cheatsheet #unicode](https://gist.github.com/1f7ab4824687f50fcc18177d32400cd6)
 > #### *Tags: #cheatsheet, #hha_ank, #unicode*
+                
+### windows (*1*)
+
+* #### [Windows Tweaks #windows](https://gist.github.com/a7d119d7d89a5156850535de7f5769f3)
+> #### *Tags: #windows*
                 
 ### Uncategorized (*87*)
 
