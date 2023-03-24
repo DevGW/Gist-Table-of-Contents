@@ -43,10 +43,7 @@ For example, if the URL of your Gist is `https://gist.github.com/awesome_usernam
 
 ## Example
 
-Here's an example of what the generated TOC might look like:
-
-https://github.com/DevGW/Gist-Table-of-Contents/blob/main/table_of_contents.md
-
+Here's an example of what the generated TOC might look like: [table_of_contents.md](table_of_contents.md)
 
 ## Contributing
 
@@ -54,4 +51,4 @@ Contributions are welcome! If you find a bug or want to suggest a feature, pleas
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
